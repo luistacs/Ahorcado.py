@@ -1,0 +1,10 @@
+celular
+computadora
+interfaz
+dormitorio
+encendedor
+zapatos
+manzana
+arbol
+elefante
+camaleon
